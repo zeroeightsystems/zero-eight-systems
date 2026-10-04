@@ -1,23 +1,11 @@
 # Zero Eight Systems
 
-Zero Eight Systems is a technical ecosystem division operated through Zero Eight Sales LLC.
+**AI visibility, commercial research and decision support for B2B companies.**
 
-We help companies get discovered, understood, and recommended by AI.
+This repository provides a public reference for Zero Eight Systems.
 
-Focused on:
+For the current business overview, see the [GitHub organization profile](https://github.com/zeroeightsalesllc).
 
-- AI-native infrastructure
-- semantic digital infrastructure
-- digital trust architecture
-- knowledge ecosystems
-- AI-assisted workflows
-- long-term discoverability systems
+For current company and service information, visit [zeroeightsales.com](https://www.zeroeightsales.com/).
 
-Part of the broader Zero Eight ecosystem supporting advisory, infrastructure and human-centered initiatives.
-
-## Advisory and Ecosystem Collaboration
-
-- Anders Nielsen — Swedish advisory, technical consulting, and strategic business development
-- andersnielsen.se — specialist authority and consulting platform
-- Zero Eight Welfare — human-centered resilience and community support initiatives
-- Support Palawan Initiative — community-led resilience initiative in Palawan, 
+Zero Eight Systems is operated by **Zero Eight Sales LLC**.
